@@ -1,0 +1,6 @@
+'paper'
+'pencil'
+'notebook'
+'backpack'
+'binder'
+'pen'
